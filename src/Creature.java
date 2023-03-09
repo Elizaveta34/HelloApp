@@ -11,9 +11,8 @@ public class Creature{
         private int damage = 15;
         private Position positionCreature=new Position(0,0);
 
-        Creature() {
 
-        }
+
 
         public String GetName () {
             return name;
